@@ -1,7 +1,7 @@
 # Techtitian
 This shall be the official repository for the all the project work done on the AI/ML Project . The project is submitted to IBM CSRBOX . In regards to SDGs.
 
-In which our chatbot is focusing on SDGs 8,9,12,13 and 16. We also created a website regarding SDGs
+In which our chatbot is focusing on SDGs 8,9,12,13 and 16. We also created a website regarding SDGs named SDG promoter.
 
 Project Members:
 1. Astuti Kumari
