@@ -1,14 +1,103 @@
-# Techtitian
-This shall be the official repository for the all the project work done on the AI/ML Project . The project is submitted to IBM CSRBOX . In regards to SDGs.
+# 🌙 Luna – AI-Powered SDG Chatbot
 
-In which our chatbot is focusing on SDGs 8,9,12,13 and 16. We also created a website regarding SDGs named SDG promoter.
+Luna is an AI-driven chatbot built using **IBM Watson Assistant** during the **IBM AI/ML Internship Program**.  
+This repository hosts all project work submitted to **IBM CSRBOX**.  
+The chatbot promotes **UN Sustainable Development Goals (SDGs)** by answering queries and spreading awareness.
 
-Project Members:
-1. Astuti Kumari
-2. Sanika Chavan
-3. Kruti Tandel
-4. Krishna Yadav
-5. Nidhi Yadav
+---
+
+## 🎯 Project Objective
+
+To develop an intelligent chatbot that:
+
+- Spreads awareness about SDGs  
+- Provides guidance & relevant information  
+- Encourages responsible and sustainable behavior  
+- Supports learning and civic engagement  
+- Promotes innovation, peace, and ethical growth  
+
+We also developed a companion website called **SDG Promoter** to support the initiative.
+
+---
+
+## 🌍 SDGs Covered
+
+| SDG | Focus Area |
+|-----|------------|
+| **8** | Decent Work & Economic Growth |
+| **9** | Industry, Innovation & Infrastructure |
+| **12** | Responsible Consumption & Production |
+| **13** | Climate Action |
+| **16** | Peace, Justice & Strong Institutions |
+
+---
+
+## ✨ Features
+
+- 🤖 AI-powered SDG discussion chatbot
+- 🌍 Promotes UN SDG awareness
+- 🧠 Trained on SDG-based knowledge intents
+- 🔧 Built using IBM Watson Assistant
+- 💬 Interactive & user-friendly responses
+- 🌐 Integrated with **SDG Promoter** website
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Tech Used |
+|---------|----------|
+| AI Engine | IBM Watson Assistant |
+| Platform | IBM Cloud |
+| Frontend | Website (SDG Promoter) |
+| Data | SDG resources & curated content |
+| Development | IBM AI/ML Virtual Internship |
+
+---
+
+---
+
+## 🚀 Future Enhancements
+
+- 📊 Real-time SDG data dashboard  
+- 🧠 Advanced NLP & improved reasoning  
+- 🌎 Covering **SDGs**  
+
+---
+
+## 👥 Project Members
+
+| Name |
+|------|
+| Astuti Kumari |
+| Sanika Chavan |
+| Kruti Tandel |
+| Krishna Yadav |
+| Nidhi Yadav |
+
+---
+
+## 🎓 Internship Program
+
+> Built under the **IBM AI/ML Internship Program** in collaboration with **IBM CSRBOX**.
+
+---
+
+## 🤝 Acknowledgments
+
+Special thanks to **IBM** & **CSRBOX** for guidance, resources, and the opportunity to work on impactful AI projects aligned with global sustainability.
+
+---
+
+## 📜 License
+
+This project is intended for educational and research purposes under the internship program guidelines.
+
+---
+
+
+
+
 
 For the Concept Note of the Project : [CONCEPT NOTE] ( https://drive.google.com/file/d/1_Vk_V_etMBh4yXURquHmYtcoDGX1O0Po/view?usp=drivesdk )
 
